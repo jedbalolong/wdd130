@@ -39,6 +39,11 @@ aside {
     text-align: center;
 }
 
+aside img {
+    width: 200px;
+    height: auto;
+}
+
 main img {
     width: 150px;
     height: auto;
